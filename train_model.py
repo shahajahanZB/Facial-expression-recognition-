@@ -5,8 +5,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
 
 # Set paths for training and testing datasets
-train_dir = "C:/Users/Manoj R/Desktop/CV/archive/train"  # Path to the training dataset
-test_dir = "C:/Users/Manoj R/Desktop/CV/archive/test"    # Path to the testing dataset
+train_dir = "give the path to train file"  # Path to the training dataset
+test_dir = "give the path to test file"    # Path to the testing dataset
 
 # Image data generator for preprocessing
 train_datagen = ImageDataGenerator(rescale=1.0/255, rotation_range=20, zoom_range=0.2, horizontal_flip=True)
