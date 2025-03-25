@@ -1,5 +1,4 @@
-# Facial-expression-recognition-
-
-you can simply run the files by installing the dependencies or you can train the model from scratch by downloading the dataset mentioned below.
+if ypou want you can run it directly by installing dependencies
+or dowload the dataset and train the model from scratch
 
 https://www.kaggle.com/datasets/msambare/fer2013
